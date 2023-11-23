@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @catscatscatsbybeatcrusaders
+- # 👋 Hi, I’m @catscatscatsbybeatcrusaders
 
 - 👀 I’m interested in ...
   <br>
-  Game Design, Cybersecurity, Operating Systems, Website Design. Outside of technology, creative writing, music, and manga.
+  Game Design, Cybersecurity, Operating Systems, Website Design. Outside of technology, I dabble in creative writing. I'm also interested in music, movies, and manga.
   
 - 🌱 I’m currently learning ...
   <br>
-  HTML, Python, CSS, Excel, Linux... a lot.
+  HTML, Python, and CSS.
   
 - 💞️ I’m looking to collaborate on ...
   <br>
